@@ -2,7 +2,7 @@
 
 ![](INSERT URL PHOTO HERE)
 
-A BBC Shared Data Unit analysis of data by the Department for Levelling Up, Housing and Communities [shows](INSERT URL BBC NEWS HERE) UK councils owe a combined £97.8bn to lenders, equivalent to £1,141 per resident, as of June 2023.
+A BBC Shared Data Unit analysis of data by the Department for Levelling Up, Housing and Communities [shows](INSERT URL BBC NEWS HERE) UK councils owe a combined £97.8bn to lenders, equivalent to £1,141 per resident, as of September 2023.
 
 Taking into account all types of local authorities, such as police and crime commissioners and combined authorities, the debt pile rose to £122bn.
 
