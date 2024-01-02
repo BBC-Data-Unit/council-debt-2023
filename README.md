@@ -24,7 +24,7 @@ This analysis provides further insight into the financial condition of councils 
 
 ## Visualisation
 
-Bar chart: UK councils with the largest average debt per resident - Outstanding debt as of June 2023
+Bar chart: UK councils with the largest average debt per resident - Outstanding debt as of September 2023
 
 ![](https://github.com/BBC-Data-Unit/council-debt-2023/blob/main/BAR%20CHART%20Average%20debt%20per%20resident.png)
 
