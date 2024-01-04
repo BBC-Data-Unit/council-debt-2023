@@ -33,6 +33,7 @@ Bar chart: UK councils with the largest average debt per resident - Outstanding 
 * Jonathan Carr West, chief executive of the Local Government Information Unit
 * Andy Carter, MP for South Warrington, who has criticised his council for acting "like a hedge fund"
 * Dame Meg Hillier MP, Chair of the Public Accounts Committee
+* A spokesperson for the Department for Levelling Up, Housing and Communities (DLUHC)
 * A spokesperson for the District Councils’ Network
 * A spokesperson for the Local Government Association
 * Spokespeople for the local authorities of Woking, South Tyneside, East Lothian, Spelthorne, Warrington, Thurrock, Runnymede and Barking and Dagenham.
