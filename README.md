@@ -8,7 +8,7 @@ Taking into account all types of local authorities, such as police and crime com
 
 High levels of local authority debt would see residents face an "extreme and long-lasting" impact on local services, the Public Accounts Committee warned.
 
-But council leaders said years of under-funding meant they had been forced to take out loans and invest in commercial properties just to keep services running.
+But council leaders said years of government under-funding meant they had been forced to take out loans and invest in commercial properties just to keep services running.
 
 ## Background and briefing
 
