@@ -1,8 +1,8 @@
 # Councils in crisis: Town Hall debt levels staggering, MPs warn
 
-![](INSERT URL PHOTO HERE)
+![](https://ichef.bbci.co.uk/news/976/cpsprodpb/21AC/production/_128402680_gettyimages-1448821693.jpg.webp)
 
-A BBC Shared Data Unit analysis of data by the Department for Levelling Up, Housing and Communities [shows](INSERT URL BBC NEWS HERE) UK councils owe a combined £97.8bn to lenders, equivalent to £1,141 per resident, as of September 2023.
+A BBC Shared Data Unit analysis of data by the Department for Levelling Up, Housing and Communities [shows](https://www.bbc.co.uk/news/uk-67707156) UK councils owe a combined £97.8bn to lenders, equivalent to £1,455 per resident, as of September 2023.
 
 Taking into account all types of local authorities, such as police and crime commissioners and combined authorities, the debt pile rose to £122bn.
 
@@ -40,7 +40,16 @@ Bar chart: UK councils with the largest average debt per resident - Outstanding 
   
 ## BBC and partner usage
 
+This investigation featured across BBC platforms on the 16th of January 2024 and was the most read in the [BBC News website](https://www.bbc.co.uk/news/uk-67707156) with over a million views. Some BBC political reporters also covered the story for their local area, including [Beds, Herts & Bucks](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67980626) and [Birmingham & Black Country](https://www.bbc.co.uk/news/articles/c972z36n329o). The research got special features on BBC radio outlets such as [BBC Radio Kent](https://www.bbc.co.uk/sounds/play/p0h58d3f) and [BBC Radio Sheffield](https://www.bbc.co.uk/sounds/play/p0h59gb9).
 
+The Shared Data Unit makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association. The partnership generated over 30 stories, including:
+
+* Aberdeen Live: [Aberdeen City Council among UK top 10 for largest average debts per resident](https://www.aberdeenlive.news/news/aberdeen-news/aberdeen-city-council-among-uk-9037982)
+* Kent Online: [The Kent councils with the biggest debts and what the money has been spent on](https://www.kentonline.co.uk/kent/news/the-kent-councils-with-the-biggest-debts-and-what-the-money-300093/)
+* Hampshire Chronicle: [Hampshire County Council £197m in debt according to new data
+](https://www.hampshirechronicle.co.uk/news/24050903.hampshire-county-council-197m-debt-according-new-data/)
+
+The story also featured in the [Daily Express](https://www.express.co.uk/finance/personalfinance/1856199/mapped-councils-debt-billions).
 
 ## Related repos
 
