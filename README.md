@@ -40,9 +40,9 @@ Bar chart: UK councils with the largest average debt per resident - Outstanding 
   
 ## BBC and partner usage
 
-This investigation featured across BBC platforms on the 16th of January 2024 and was the most read in the [BBC News website](https://www.bbc.co.uk/news/uk-67707156). Some BBC political reporters also covered the story for their local area, including [Beds, Herts & Bucks](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67980626) and [Birmingham & Black Country](https://www.bbc.co.uk/news/articles/c972z36n329o). The research got special features on BBC radio outlets such as [BBC Radio Kent](https://www.bbc.co.uk/sounds/play/p0h58d3f) and [BBC Radio Sheffield](https://www.bbc.co.uk/sounds/play/p0h59gb9).
+This investigation featured across BBC platforms on the 16th of January 2024 and was the most read in the [BBC News website](https://www.bbc.co.uk/news/uk-67707156). Some BBC political reporters also covered the story for their local area, including [Beds, Herts & Bucks](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67980626) and [Birmingham & Black Country](https://www.bbc.co.uk/news/articles/c972z36n329o). The research got special features in some BBC radio outlets such as [BBC Radio Kent](https://www.bbc.co.uk/sounds/play/p0h58d3f) and [BBC Radio Sheffield](https://www.bbc.co.uk/sounds/play/p0h59gb9).
 
-The Shared Data Unit makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association. The partnership generated over 30 stories, including:
+The Shared Data Unit makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association. The partnership generated over 60 stories, including:
 
 * Aberdeen Live: [Aberdeen City Council among UK top 10 for largest average debts per resident](https://www.aberdeenlive.news/news/aberdeen-news/aberdeen-city-council-among-uk-9037982)
 * Kent Online: [The Kent councils with the biggest debts and what the money has been spent on](https://www.kentonline.co.uk/kent/news/the-kent-councils-with-the-biggest-debts-and-what-the-money-300093/)
@@ -54,7 +54,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * East Lothian Courier: [East Lothian Council has debts of almost £450 million, study finds](https://www.eastlothiancourier.com/news/24052097.data-reveals-east-lothian-council-debts-almost-450-million/)
 * Southern Daily Echo: [This is how much debt per resident each local council has](https://www.dailyecho.co.uk/news/24048878.much-debt-per-resident-local-council/)
 
-The story also featured in the [Daily Express](https://www.express.co.uk/finance/personalfinance/1856199/mapped-councils-debt-billions).
+The story also featured in the [Daily Express](https://www.express.co.uk/finance/personalfinance/1856199/mapped-councils-debt-billions) and both print and digital editions of [The Times](https://www.thetimes.co.uk/article/uk-councils-owe-staggering-debt-of-almost-100bn-analysis-shows-2jqkbvdg3).
 
 ## Related repos
 
