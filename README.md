@@ -40,7 +40,9 @@ Bar chart: UK councils with the largest average debt per resident - Outstanding 
   
 ## BBC and partner usage
 
-This investigation featured across BBC platforms on the 16th of January 2024 and was the most read in the [BBC News website](https://www.bbc.co.uk/news/uk-67707156). Some BBC political reporters also covered the story for their local area, including [Beds, Herts & Bucks](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67980626) and [Birmingham & Black Country](https://www.bbc.co.uk/news/articles/c972z36n329o). The research got special features in some BBC radio outlets such as [BBC Radio Kent](https://www.bbc.co.uk/sounds/play/p0h58d3f) and [BBC Radio Sheffield](https://www.bbc.co.uk/sounds/play/p0h59gb9).
+This investigation featured across BBC platforms on the 16th of January 2024 and was the most read in the [BBC News website](https://www.bbc.co.uk/news/uk-67707156). Some BBC political reporters also covered the story for their local area, including [Beds, Herts & Bucks](https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-67980626) and [Birmingham & Black Country](https://www.bbc.co.uk/news/articles/c972z36n329o).
+
+The research got special features in some BBC radio outlets, such as [BBC Radio Kent](https://www.bbc.co.uk/sounds/play/p0h58d3f) and [BBC Radio Sheffield](https://www.bbc.co.uk/sounds/play/p0h59gb9), and [BBC local TVs](https://github.com/BBC-Data-Unit/council-debt-2023/tree/main/BBC%20usage).
 
 The Shared Data Unit makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association. The partnership generated over 60 stories, including:
 
@@ -48,6 +50,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Kent Online: [The Kent councils with the biggest debts and what the money has been spent on](https://www.kentonline.co.uk/kent/news/the-kent-councils-with-the-biggest-debts-and-what-the-money-300093/)
 * Hampshire Chronicle: [Hampshire County Council £197m in debt according to new data
 ](https://www.hampshirechronicle.co.uk/news/24050903.hampshire-county-council-197m-debt-according-new-data/)
+* The Cornish Times: [Cornwall Council issue government funding plea as debt exceeds £700m](https://www.cornish-times.co.uk/news/cornwall-council-issue-government-funding-plea-as-debt-exceeds-ps700m-660809)
 * The Hunts Post: [Cambridgeshire: Councils have £1.33bn of debt in total](https://www.huntspost.co.uk/news/24051241.cambridgeshire-councils-1-33bn-debt-total/)
 * News & Star - The Cumberland News: [Cumberland council's debt adds up to £254million, figures reveal](https://www.newsandstar.co.uk/news/24050009.cumberland-councils-debt-adds-254million-figures-reveal/)
 * Western Telegraph: [Pembrokeshire council's £192m debts, figures reaveal](https://www.westerntelegraph.co.uk/news/24051946.pembrokeshire-councils-192m-debts-figures-reaveal/)
