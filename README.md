@@ -44,7 +44,7 @@ This investigation featured across BBC platforms on the 16th of January 2024 and
 
 The research got special features in some BBC radio outlets, such as [BBC Radio Kent](https://www.bbc.co.uk/sounds/play/p0h58d3f) and [BBC Radio Sheffield](https://www.bbc.co.uk/sounds/play/p0h59gb9), and [BBC local TVs](https://github.com/BBC-Data-Unit/council-debt-2023/tree/main/BBC%20usage).
 
-The Shared Data Unit makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association. The partnership generated over 60 stories, including:
+The Shared Data Unit makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association. The partnership generated over 70 stories, including:
 
 * Aberdeen Live: [Aberdeen City Council among UK top 10 for largest average debts per resident](https://www.aberdeenlive.news/news/aberdeen-news/aberdeen-city-council-among-uk-9037982)
 * Kent Online: [The Kent councils with the biggest debts and what the money has been spent on](https://www.kentonline.co.uk/kent/news/the-kent-councils-with-the-biggest-debts-and-what-the-money-300093/)
