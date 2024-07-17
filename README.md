@@ -59,6 +59,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 The story also featured in the [Daily Express](https://www.express.co.uk/finance/personalfinance/1856199/mapped-councils-debt-billions) and both print and digital editions of [The Times](https://www.thetimes.co.uk/article/uk-councils-owe-staggering-debt-of-almost-100bn-analysis-shows-2jqkbvdg3).
 
+Six months later, during the 2024 general election, the reporting featured in the BBC England Data Unit story '[Cost of living: Your concerns, questions and stories](https://www.bbc.co.uk/news/extra/7j4suavyef/cost_of_living_your_voice_your_vote)'. 
+
 ## Related repos
 
 In August 2023, the BBC Shared Data Unit [revealed](https://www.bbc.co.uk/news/uk-66428191) that a black hole in local authority budgets continues to grow, prompting fears some will not be able to provide basic services ([repo available here](https://github.com/BBC-Data-Unit/council-finances-23)).
